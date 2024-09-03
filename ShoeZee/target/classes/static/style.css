@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.container{
+	background-color: #ED2939;
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	gap:2%;
+	padding:5%;
+	
+}
+
+.subcontainer
+{   position:relative;
+   display:flex;
+   flex-wrap:wrap;;
+	width:20%;
+	margin:5%;
+	padding:5%;
+	background-color: #FFEF00;
+	font-size: large;
+	color:#004225;
+}
